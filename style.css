@@ -325,9 +325,18 @@ section .title::after {
   font-weight: 500;
   margin: 10px 0 7px 0;
 }
+.skills .skills-content .right img {
+  /*  height: 400px;
+    /*  */
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+  border-radius: 6px;
+}
 
-/* skills section styling */
-
+/* .nyaayAI .nyaayAI-content {
+  transform: translateX(50%);
+} */
 .skills .title::after {
   content: "what i know";
 }
@@ -402,6 +411,14 @@ section .title::after {
 }
 
 /* education section styling */
+.education .education-content .right img {
+  /*  height: 400px;
+/*  */
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+  border-radius: 6px;
+}
 
 .education .title::after {
   content: "what i know";
@@ -478,6 +495,14 @@ section .title::after {
 
 /* experience section styling */
 
+.experience .experience-content .right img {
+  /*  height: 400px;
+  /*  */
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+  border-radius: 6px;
+}
 .experience .title::after {
   content: "what i know";
 }
@@ -553,6 +578,18 @@ section .title::after {
 
 /* nyaayAI starts here
  */
+.nyaayAI .nyaayAI-content .right img {
+  /*  height: 400px;
+    /*  */
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+/* .nyaayAI .nyaayAI-content {
+  transform: translateX(50%);
+} */
 .nyaayAI .title::after {
   content: "what i know";
 }
